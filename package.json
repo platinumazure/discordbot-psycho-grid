@@ -1,0 +1,22 @@
+{
+  "name": "discordbot-psycho-grid",
+  "version": "0.1.0",
+  "description": "Discord bot for playing the Psycho Grid game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platinumazure/discordbot-psycho-grid.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Kevin Partington <kevin@kernelpanicstudios.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platinumazure/discordbot-psycho-grid/issues"
+  },
+  "homepage": "https://github.com/platinumazure/discordbot-psycho-grid#readme"
+}
