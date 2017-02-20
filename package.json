@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/platinumazure/discordbot-psycho-grid/issues"
   },
-  "homepage": "https://github.com/platinumazure/discordbot-psycho-grid#readme"
+  "homepage": "https://github.com/platinumazure/discordbot-psycho-grid#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
 }
