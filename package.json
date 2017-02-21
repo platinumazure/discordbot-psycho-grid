@@ -2,7 +2,7 @@
   "name": "discordbot-psycho-grid",
   "version": "0.1.0",
   "description": "Discord bot for playing the Psycho Grid game",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
